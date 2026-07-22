@@ -9,3 +9,7 @@
 # The Merchant💲💰
 
 <img src="https://i.pinimg.com/736x/c6/f3/99/c6f3994007fc75677d8726e41a7fb946.jpg">
+
+# The Warrior⚔️
+
+<img src="https://i.pinimg.com/736x/f5/74/b3/f574b3325cccce5c7b3a3d0f20e2cbd0.jpg">
