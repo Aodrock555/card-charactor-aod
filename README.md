@@ -13,3 +13,7 @@
 # The Warrior⚔️
 
 <img src="https://i.pinimg.com/736x/f5/74/b3/f574b3325cccce5c7b3a3d0f20e2cbd0.jpg">
+
+# The Mage💥💣
+
+<img src="https://i.pinimg.com/1200x/ca/44/b3/ca44b34ab108c75cf1eb3e292824d092.jpg">
