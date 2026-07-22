@@ -5,3 +5,7 @@
 # The Priest🧙‍♂️
 
 <img src="https://i.pinimg.com/736x/a0/1c/73/a01c73f43b733c56c25c772a67fbc30e.jpg">
+
+# The Merchant💲💰
+
+<img src="https://i.pinimg.com/736x/c6/f3/99/c6f3994007fc75677d8726e41a7fb946.jpg">
